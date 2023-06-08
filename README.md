@@ -3,7 +3,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LP5zn24f_5n9d8W5rPHEXS3UdmzxJ7H8aw1vjOB94WOYtWPJGkyf-l8yj1qS3mswPMQ&usqp=CAU" alt="hosein khanali" height="40" width="40" /></a>
+<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LP5zn24f_5n9d8W5rPHEXS3UdmzxJ7H8aw1vjOB94WOYtWPJGkyf-l8yj1qS3mswPMQ&usqp=CAU](https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg)" alt="hosein khanali" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Skills:</h2>
