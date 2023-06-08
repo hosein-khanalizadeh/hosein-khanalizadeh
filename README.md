@@ -3,7 +3,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://medium.com/?source=---two_column_layout_nav----------------------------------" alt="hosein khanali" height="40" width="40" /></a>
+<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACMklEQVR4AWKAgnogfg/E/+mBoXb1wyzvh0vQHzcw0NnnmCEBYgwwBrBXBpCqBUEYlhQSRQmEKipEKIJUkVQghIhCEEUASEkRpSKgEhBJAYCgEgSIAKAqBCgCSv1Pi3XfPWdvtwPgfsCYM7P/2ZmZ/RPwJ4DtVCqVSKVSKJfLqFQqyOVyMJvNb5OKxWLI5XLBAsjB7XYbj8cDfCyXSxiNRt6EkUgE5/MZL/r9PmQyGfWp1WrodLofBZAPttst3nG5XBCLxTix3+l2u9Tf6/Uwn8+ZAsifcw9nc7/f4XQ6afxoNAIfBoOB+NfrNblViUTCL6BareJTNpsNidVoNGBRLBZJKZ7PJ7GtViu/gOPxCCF4vV4EAgEwINeu1+upHQwGOQJIEqHU63UUCgWwOBwOsNvt1E4mk1wB6XQaQplMJmRUWdxuN3g8HmpnMhmugGw2C6FMp1OyJxiQxnO73dR+ncUREA6HIZRms0kajcXpdILNZqN2IpHgClAoFLherxBCKBRCNBoFi9Vq9d+O8Pv9/FPQarXwIWRviEQiskNYNBoNqFQqOoYul4u9iHa7HT4hHo/T+Ne48WGxWF5+mlsqlbJXsclk+rWIUqlE41ijPB6Pqb/T6WCxWLx9jEi9ZrMZWOz3e9K0PLFE1Nfaa7Xar3lJM/76OXY4HMjn8xgMBhgOh6jVavD5fPg3Xl5evFWsrKws2CIWFpYh0SAZdcCoAwa+a9YwgA6YwAAFE+jdPYf1jAGYpV6YmNbPGAAAAABJRU5ErkJggg==" alt="hosein khanali" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Skills:</h2>
