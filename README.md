@@ -1,6 +1,11 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://medium.com/?source=---two_column_layout_nav----------------------------------" alt="hosein khanali" height="40" width="40" /></a>
+</p>
+
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
