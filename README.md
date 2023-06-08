@@ -1,11 +1,6 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
-</p>
-
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
@@ -27,8 +22,6 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<br>
-
 <h3 align="left">Artificial intelligence</h3>
 <p align="left">
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy.png" alt="opencv" width="40" height="40"/></a>
@@ -36,4 +29,11 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+
+<br>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
 </p>
