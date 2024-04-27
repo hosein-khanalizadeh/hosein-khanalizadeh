@@ -5,6 +5,8 @@
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
 </p>
 
+ [![Hosein's's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
