@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hosein-khanalizadeh)
 <br>
 
 <p align="center">
@@ -42,6 +43,17 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<br>
+
+<div width="100%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+</div>
+<br />
+<div width="100%">
+<img src="https://github.com/hosein-khanalizadeh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/hosein-khanalizadeh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
 
 <br>
 
