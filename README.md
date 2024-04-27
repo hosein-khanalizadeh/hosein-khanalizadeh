@@ -13,7 +13,7 @@
 
  [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff")](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=black-ice&hide_border=true&stroke=0000&background=0D1117")](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#)
 
 </div>
 <h2 align="left">Skills:</h2>
