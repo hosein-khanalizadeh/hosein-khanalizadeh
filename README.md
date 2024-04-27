@@ -2,6 +2,10 @@
 <br>
 
 <p align="center">
+  <img width="660" src="https://github.com/hosein-khanalizadeh/github-profile-trophy">
+</p>
+
+<p align="center">
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=gruvbox">
 </p>
 
