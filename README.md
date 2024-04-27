@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hosein-khanalizadeh)
 <br>
 
 <p align="center">
@@ -7,12 +6,6 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
- [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Hosein's current streak](https://streak-stats.demolab.com/?user=hosein-khanalizadeh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
@@ -51,8 +44,9 @@
 </div>
 <br />
 <div width="100%">
-<img src="https://github.com/hosein-khanalizadeh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/hosein-khanalizadeh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+ [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 </div>
 
 <br>
