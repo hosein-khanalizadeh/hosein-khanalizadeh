@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
+</p>
+
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
@@ -37,10 +41,6 @@
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
 
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
-</p>
-<br>
  [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff")](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#)
