@@ -1,21 +1,6 @@
 <h1 align="center">Hello, I'm Hosein <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
-</p>
-
-<div width="100%">
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
-
- [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff")](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#)
-
-</div>
 <h2 align="left">Skills:</h2>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
@@ -43,6 +28,24 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
+</p>
+
+<div width="100%">
+  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+
+ [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff")](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#)
+
+</div>
 
 <br>
 
