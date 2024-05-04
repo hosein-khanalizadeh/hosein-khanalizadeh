@@ -11,19 +11,16 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=hosein-khanalizadeh&style=for-the-badge&color=blueviolet"/></a>
 </p>
 <hr>
-
+<br>
 
 <div align="center" width="100%">
 <h3 align="center">🚀 Github Achivements</h3>
+<br>
   
  [![Hosein's current streak](https://streak-stats.demolab.com/?user=hosein-khanalizadeh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
 <p align="center">
- 
- [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
+<img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 <p align="center">
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
