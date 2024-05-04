@@ -13,10 +13,10 @@
 <hr>
 <br>
 
+<!-- Github Achivements -->
 <div align="center" width="100%">
 <h2 align="center">🚀 Github Achivements: </h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hosein-khanalizadeh&&theme=gruvbox-duo&border_color=30363d" alt="Hoseinsh's GitHub Contribution"/></p>
 <p align="center">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
@@ -28,7 +28,7 @@
 <hr>
 <br>
 
-
+<!-- Languages and Tools -->
 <h2 align="center"> Languages and Tools: </h2>
 <p align="center" width="20%">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
@@ -48,12 +48,14 @@
 <hr>
 <br>
 
-
-<h2 align="center">Contact me:</h2>
+<!-- Connect with me -->
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
 </p>
+<br>
 
+<!-- Footer -->
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
