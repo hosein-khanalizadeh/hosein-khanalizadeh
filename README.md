@@ -1,20 +1,33 @@
 
 <h1 align="center">Hello, My Name is Hosein & I'm a Programmer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<p align="center" text-align="center"> <img src="https://komarev.com/ghpvc/?username=andriypapirnyk&label=Profile%20views&color=0e75b6&style=flat" alt="andriypapirnyk" /> </p>
+
+<!-- Social badges section -->
+<p align="center">
+  <a href="https://github.com/Youssefouah?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Youssefouah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Youssefouah?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Youssefouah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Youssefouah/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Youssefouah&style=for-the-badge&color=blueviolet"/></a>
+</p>
 <hr>
 
 
-
+<h3>🚀 Github Achivements</h3>
 <div align="center" width="100%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
-<h2 align="center"> Github Stats: </h2>
 
  [![Hosein's current streak](https://streak-stats.demolab.com/?user=hosein-khanalizadeh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+<p align="center">
+ 
  [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+</p>
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
+</p>
 </div>
 <hr>
 
@@ -43,10 +56,6 @@
 <h2 align="left">Contact me:</h2>
 <p align="left">
 <a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
-</p>
-
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
 </p>
 
 <p align="center">
