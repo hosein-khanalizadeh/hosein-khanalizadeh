@@ -22,12 +22,12 @@
 <br>
 <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
+  <img width="40%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 <br>
 <h3>🚀 Github Achivements</h3>
-<p align="center"><img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai"></p>
+<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai"></p>
 </div>
 <hr>
 <br>
