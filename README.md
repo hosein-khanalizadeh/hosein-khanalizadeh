@@ -13,9 +13,9 @@
 <hr>
 
 
-<h3>🚀 Github Achivements</h3>
 <div align="center" width="100%">
-
+<h3 align="center">🚀 Github Achivements</h3>
+  
  [![Hosein's current streak](https://streak-stats.demolab.com/?user=hosein-khanalizadeh&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
