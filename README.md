@@ -4,11 +4,11 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://github.com/Youssefouah?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Youssefouah?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hosein-khanalizadeh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Youssefouah?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Youssefouah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hosein-khanalizadeh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Youssefouah/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Youssefouah&style=for-the-badge&color=blueviolet"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=hosein-khanalizadeh&style=for-the-badge&color=blueviolet"/></a>
 </p>
 <hr>
 
