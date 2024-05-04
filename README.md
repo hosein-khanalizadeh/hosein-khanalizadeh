@@ -3,14 +3,15 @@
 <hr>
 
 <div align="center" width="100%">
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&show_icons=true&locale=en&layout=compact&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="hosein"/></p>
+<!-- <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
  [![Hosein's github stats](https://bad-apple-github-readme.vercel.app/api?username=hosein-khanalizadeh&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff")](#)
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=hosein-khanalizadeh&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff")](#) -->
 </div>
 <hr>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
