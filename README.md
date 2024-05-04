@@ -15,21 +15,29 @@
 
 <!-- Github Achivements -->
 <div align="center" width="100%">
-<h2 align="center">🚀 Github Achivements: </h2>
+<h2 align="center">📊 Github Stats and Activity</h2>
+
+
+<h3>🔥 Streak Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
+
+
+<h3>💻 GitHub Profile Stats</h3>
 <p align="center">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai">
-</p>
+
+
+<h3>🚀 Github Achivements</h3>
+<p align="center"><img width="660" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai"></p>
+
 </div>
 <hr>
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center"> Languages and Tools: </h2>
+<h2 align="center"> Languages and Tools</h2>
 <p align="center" width="20%">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -49,7 +57,7 @@
 <br>
 
 <!-- Connect with me -->
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
 </p>
