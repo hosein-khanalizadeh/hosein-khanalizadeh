@@ -18,7 +18,7 @@
 <h2 align="center">📊 Github Stats and Activity</h2>
 <br>
 <h3>🔥 Streak Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
+<p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
 <br>
 <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
