@@ -43,13 +43,13 @@
   <h3 align="center">Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=3" />
+      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=3" width="40%" height="40%" />
     </a>
   </p>
   <h3 align="center">Learning and practicing</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=3" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=4" width="50%" height="50%"/>
     </a>
   </p>
 <hr>
