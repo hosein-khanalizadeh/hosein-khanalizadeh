@@ -15,38 +15,38 @@
 
 <!-- Github Achivements -->
 <div align="center" width="100%">
-<h2 align="center">📊 Github Stats and Activity 📊</h2>
+<h2 align="center">📊 Github Stats and Activity</h2>
 <br>
-<h3>🔥 Streak Stats 🔥</h3>
+<h3>🔥 Streak Stats</h3>
 <p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
 <br>
-<h3>💻 GitHub Profile Stats</h3>
+<h3>💡 GitHub Profile Stats</h3>
 <p align="center">
   <img width="40%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 <br>
-<h3>🚀 Github Achivements 🚀</h3>
+<h3>🚀 Github Achivements</h3>
 <p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai"></p>
 </div>
 <hr>
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center">💻 Skills 💻</h2>
-  <h3 align="center">Languages and Frameworks</h3>
+<h2 align="center">🧠 Skills</h2>
+  <h3 align="center">👨‍💻 Languages and Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,sklearn,selenium,regex,bots,github&perline=8" width="100%" height="100%" />
     </a>
   </p>
-  <h3 align="center">Tools</h3>
+  <h3 align="center">🧰 Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=3" width="40%" height="40%" />
     </a>
   </p>
-  <h3 align="center">Learning and practicing</h3>
+  <h3 align="center">📈 Learning and practicing</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=4" width="50%" height="50%"/>
@@ -57,7 +57,7 @@
 <br>
 
 <!-- Connect with me -->
-<h2 align="center">Connect with me</h2>
+<h2 align="center">🤝 Connect with me</h2>
 <p align="center">
 <a href="https://medium.com/@hosein.asf147" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="hosein khanali" height="40" width="40" /></a>
 </p>
