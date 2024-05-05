@@ -3,11 +3,11 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://github.com/Youssefouah?tab=repositories&sort=stargazers">
+  <a href="https://github.com/hosein-khanalizadeh?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hosein-khanalizadeh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Youssefouah?tab=followers">
+  <a href="https://github.com/hosein-khanalizadeh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hosein-khanalizadeh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Youssefouah/Simple-View-Counter">
+  <a href="https://github.com/hosein-khanalizadeh/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=hosein-khanalizadeh&style=for-the-badge&color=blueviolet"/></a>
 </p>
 <hr>
@@ -33,23 +33,15 @@
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center"> Languages and Tools</h2>
-<p align="center" width="20%">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/></a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100" width="100" alt="bootstrap"/></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/jquery.png" alt="jquery" width="100" height="100"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="100"/> </a>
-</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="100"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="100" height="100"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/numpy.png" alt="opencv" width="100" height="100"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="100"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="100"/></a>
-</p>
+<h2 align="center">💻 Skills</h2>
+  <h1 align="center">Languages and Frameworks</h1>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,nodejs,mongodb,django,sqlite,wordpress,sklearn,selenium,opencv,tensorflow,regex&perline=5" />
+    </a>
+  </p>
 <hr>
+<!--         atom,bots,github,gmail,kali,linux,pycharm,stackoverflow,sublime,twitter,ubuntu,webstorm,windows -->
 <br>
 
 <!-- Connect with me -->
