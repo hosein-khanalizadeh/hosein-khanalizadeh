@@ -37,7 +37,7 @@
   <h3 align="center">Languages and Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,sklearn,selenium,regex,bots,github&perline=8" width="400" height="400" />
+      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,sklearn,selenium,regex,bots,github&perline=8" width="100%" height="100%" />
     </a>
   </p>
   <h3 align="center">Tools</h3>
