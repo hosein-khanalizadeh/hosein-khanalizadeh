@@ -15,9 +15,9 @@
 
 <!-- Github Achivements -->
 <div align="center" width="100%">
-<h2 align="center">📊 Github Stats and Activity</h2>
+<h2 align="center">📊 Github Stats and Activity 📊</h2>
 <br>
-<h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats 🔥</h3>
 <p align="center"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d" alt="Hosein's GitHub streak" /></p>
 <br>
 <h3>💻 GitHub Profile Stats</h3>
@@ -26,22 +26,34 @@
   <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosein-khanalizadeh&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 <br>
-<h3>🚀 Github Achivements</h3>
+<h3>🚀 Github Achivements 🚀</h3>
 <p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=monokai"></p>
 </div>
 <hr>
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center">💻 Skills</h2>
-  <h1 align="center">Languages and Frameworks</h1>
+<h2 align="center">💻 Skills 💻</h2>
+  <h3 align="center">Languages and Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,nodejs,mongodb,django,sqlite,wordpress,sklearn,selenium,opencv,tensorflow,regex&perline=5" />
+      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,wordpress,sklearn,selenium,regex,bots,github&perline=5" width="100" height="100" />
+    </a>
+  </p>
+  <h3 align="center">Tools</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=5" width="100" height="100" />
+    </a>
+  </p>
+  <h3 align="center">Learning and practicing</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=5" width="100" height="100" />
     </a>
   </p>
 <hr>
-<!--         atom,bots,github,gmail,kali,linux,pycharm,stackoverflow,sublime,twitter,ubuntu,webstorm,windows -->
+<!--         kali,linux,stackoverflow,twitter,ubuntu -->
 <br>
 
 <!-- Connect with me -->
