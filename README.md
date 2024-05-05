@@ -37,19 +37,19 @@
   <h3 align="center">Languages and Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,wordpress,sklearn,selenium,regex,bots,github&perline=5" width="100" height="100" />
+      <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,jquery,angular,vue,django,sqlite,wordpress,sklearn,selenium,regex,bots,github&perline=5" />
     </a>
   </p>
   <h3 align="center">Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=5" width="100" height="100" />
+      <img src="https://skillicons.dev/icons?i=sublime,atom,pycharm,webstorm,windows,gmail&perline=3" />
     </a>
   </p>
   <h3 align="center">Learning and practicing</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=5" width="100" height="100" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,opencv,tensorflow&perline=3" />
     </a>
   </p>
 <hr>
