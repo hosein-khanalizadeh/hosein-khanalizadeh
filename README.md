@@ -27,7 +27,7 @@
 </p>
 <br>
 <h3>🚀 Github Achivements</h3>
-<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=gruvbox-duo&border_color=30363d"></p>
+<p align="center"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=hosein-khanalizadeh&theme=onestar"></p>
 </div>
 <hr>
 <br>
