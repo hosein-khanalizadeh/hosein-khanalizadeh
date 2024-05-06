@@ -8,7 +8,7 @@
   <a href="https://github.com/hosein-khanalizadeh?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hosein-khanalizadeh?color=d10000&labelColor=ed004f&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/hosein-khanalizadeh/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=hosein-khanalizadeh&style=for-the-badge&color=009c46&labelColor=00d945"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=hosein-khanalizadeh&style=for-the-badge&color=009c46"/></a>
 </p>
 <hr>
 <br>
